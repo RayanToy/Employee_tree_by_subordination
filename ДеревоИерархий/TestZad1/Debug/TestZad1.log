@@ -1,0 +1,5 @@
+﻿  TestZad1.cpp
+C:\Users\User\source\repos\TestZad1\TestZad1\TestZad1.cpp(62,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\TestZad1\TestZad1\TestZad1.cpp(68,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\TestZad1\TestZad1\TestZad1.cpp(77,35): warning C4018: <: несоответствие типов со знаком и без знака
+  TestZad1.vcxproj -> C:\Users\User\source\repos\TestZad1\Debug\TestZad1.exe
